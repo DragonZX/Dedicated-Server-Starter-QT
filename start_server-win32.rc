@@ -1,0 +1,2 @@
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "start_server-win32.manifest"
+MAINICON ICON DISCARDABLE "start_server.ico"

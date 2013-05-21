@@ -1,0 +1,7 @@
+*.user*
+Makefile
+binaries/*
+*.o
+moc_*
+start_server
+start_server.ini

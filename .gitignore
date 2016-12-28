@@ -5,3 +5,4 @@ binaries/*
 moc_*
 start_server
 start_server.ini
+.DS_Store
